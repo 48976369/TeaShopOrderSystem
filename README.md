@@ -279,3 +279,6 @@ TeaShopOrderSystem
 - 專題名稱：飲料店點餐管理系統
 - 開發工具：Visual Studio 2022
 - 程式語言：C#
+
+## 十二、截圖
+!\[程式截圖](screenshot.png)
