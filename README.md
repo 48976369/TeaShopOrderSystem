@@ -281,4 +281,4 @@ TeaShopOrderSystem
 - 程式語言：C#
 
 ## 十二、截圖
-!\[程式截圖](screenshot.png)
+ ![程式截圖](screenshot.png) 
