@@ -1,0 +1,9 @@
+﻿Id,Name,Category,BasePrice,Available
+D001,珍珠奶茶,奶茶類,55,true
+D002,紅茶,茶類,30,true
+D003,綠茶,茶類,30,true
+D004,烏龍茶,茶類,35,true
+D005,多多綠茶,果茶類,45,true
+D006,布丁奶茶,奶茶類,60,true
+D007,檸檬紅茶,果茶類,45,true
+D008,冬瓜茶,茶類,30,true
